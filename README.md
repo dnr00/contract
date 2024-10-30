@@ -61,14 +61,14 @@ Foundry 최신 버전 설치:
 ```bash
 foundryup
 ```
-## 설치 확인
+### 설치 확인
 설치가 완료된 후, 다음 명령어로 제대로 설치되었는지 확인할 수 있습니다:
 ```bash
 forge --version
 cast --version
 anvil --version
 ```
-## 새 프로젝트 생성
+### 새 프로젝트 생성
 설치 후 새로운 Foundry 프로젝트를 시작하려면:
 ```bash
 mkdir your-project-name
